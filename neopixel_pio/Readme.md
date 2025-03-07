@@ -711,3 +711,7 @@ Sendo que x e y definem a posição do LED na matriz e r, g e b definem a intens
 Use esta função e faça um programa para acender um coração vermelho na matriz da BitDogLab, como mostra a figura:
 
 ![Figura](images/led_exercicio.png)
+
+## Criadopor Marcio 2025.03.07 - alterações na execução da matriz
+
+
